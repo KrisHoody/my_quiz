@@ -1,0 +1,170 @@
+[
+    {
+        "Question": "1/20 Which one is the highest-grossing film ever?",
+        "1": "Titanic",
+        "2": "Avengers:Endgame",
+        "3": "Avatar",
+        "4": "Lord of the Rings: The Fellow Ship of the Rings",
+        "right_answer":"3"
+    },
+    {
+        "Question": "2/20 Where were The Lord of the Rings movies filmed?",
+        "1": "New Zealand",
+        "2": "Australia",
+        "3": "Poland",
+        "4": "Iceland",
+        "right_answer":"1"
+    },
+    {
+        "Question": "3/20 How many Oscars Titanic won?",
+        "1": "10",
+        "2": "9",
+        "3": "11",
+        "4": "6",
+        "right_answer":"3"
+    },
+    {
+        "Question": "4/20 Which movie isn't directed by Quentin Tarantino?",
+        "1": "Pulp Fiction",
+        "2": "Inglorious Bastards",
+        "3": "Reservoir Dogs",
+        "4": "Snatch",
+        "right_answer":"4"
+    },
+    {
+        "Question": "5/20 Wchich composer won most Oscars?",
+        "1": "John Williams",
+        "2": "Alfred Newman",
+        "3": "Henry Mancini",
+        "4": "John Barry",
+        "right_answer":"2",
+        "ext_info": "9"
+    },{
+        "Question": "6/20 Which actor played in most movies?",
+        "1": "Clint Eastwood",
+        "2": "Sean Connery",
+        "3": "Eric Roberts",
+        "4": "Michael Douglas",
+        "right_answer":"3",
+        "extra_info": "over 600"
+    },
+    {
+        "Question": "7/20 Which one is the most expensive film ever?",
+        "1": "Titanic",
+        "2": "Avengers:Endgame",
+        "3": "Avatar",
+        "4": "Pirates of the Caribbean: On Stranger Tides",
+        "right_answer":"4",
+        "extra_info": "387 milions"
+    },
+    {
+        "Question": "8/20 Who is most expensive actor to hire?",
+        "1": "Dwayne Johnson",
+        "2": "Daniel Craig",
+        "3": "Robert Downey Jr",
+        "4": "Ryan Reynolds",
+        "right_answer":"2",
+        "extra_info": "100 millions for Knives out"
+    },
+    {
+        "Question": "9/20 Who is the most adapted author ever?",
+        "1": "Stephen King",
+        "2": "Michael Crichton",
+        "3": "Nicholas Sparks",
+        "4": "Jane Austen",
+        "right_answer":"3",
+        "extra_info": "11"
+    },
+    {
+        "Question": "10/20 Which actors has the most Oscar nominations without a win?",
+        "1": "Peter O'Toole",
+        "2": "Annette Bening",
+        "3": "Sigourney Weaver",
+        "4": "Amy Adams",
+        "right_answer":"1",
+        "extra_info": "8"
+    },
+    {
+        "Question": "11/20 Who had 14 nominations for Worst Actor at the Razzies?",
+        "1": "Nicolas Cage",
+        "2": "Arnold Schwarzenegger",
+        "3": "Sylvester Stallone",
+        "4": "Bruce Willis",
+        "right_answer":"3"
+    },
+    {
+        "Question": "12/20 Who was offerd role of Han Solo but not accepted?",
+        "1": "Al Pacino",
+        "2": "Sean Connery",
+        "3": "Michael Douglas",
+        "4": "Robert Englund",
+        "right_answer":"1"
+    },
+    {
+        "Question": "13/20Who adapted graphic novel 'Watchmen?' to movie?",
+        "1": "Zac Snyder",
+        "2": "Steven Spielberg",
+        "3": "Christopher Nolan",
+        "4": "Michael Bay",
+        "right_answer":"1"
+    },
+    {
+        "Question": "14/20 What is the cheapest movie made with highest gross?",
+        "1": "Rocky",
+        "2": "Reservoir Dogs",
+        "3": "The Blair Witch Project",
+        "4": "Mad Max",
+        "right_answer":"3",
+        "extra_info": "made for 60,000 but grossed 249 millions"
+    },
+    {
+        "Question": "15/20 What is real name of Marylin Monroe?",
+        "1": "Mary Monroe",
+        "2": "Norma Jeane Baker",
+        "3": "Mandy Johnson",
+        "4": "Matilda Monroe",
+        "right_answer":"2"
+    },
+    {
+        "Question": "16/20 On who's book is 'Blade Runner' based on?",
+        "1": "Arthur C. Clarke",
+        "2": "Robert A. Heinlein",
+        "3": "Isaac Asimov",
+        "4": "Philip K. Dick",
+        "right_answer":"4"
+    },
+    {
+        "Question": "17/20 Who is the highest-grossing film director in history?",
+        "1": "James Cameron",
+        "2": "Steven Spielberg",
+        "3": "Peter Jackson",
+        "4": "Michael Bay",
+        "right_answer":"2"
+    },
+    {
+        "Question": "18/20 What is the biggest flop in movie history?",
+        "1": "King Arthur: Legend of the Sword",
+        "2": "John Carter",
+        "3": "The Lone Ranger",
+        "4": "47 Ronin",
+        "right_answer":"1",
+        "extra_info": "lost 150 millions"
+    },
+    {
+        "Question": "19/20 Who got two Oacars in a row?",
+        "1": "Meryl Streep",
+        "2": "Tom Hanks",
+        "3": "Jack Nicholson",
+        "4": "Robert De Niro",
+        "right_answer":"2",
+        "extra_info": "1993 and 1994"
+    },
+    {
+        "Question": "20/20 Who one is the highest-grossing actor?",
+        "1": "Bruce Willis",
+        "2": "Arnold Schwarzenegger",
+        "3": "Samuel L. Jackson",
+        "4": "Robert Downey Jr.",
+        "right_answer":"4"
+    }
+]
