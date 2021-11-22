@@ -37,7 +37,7 @@
         "2": "Alfred Newman",
         "3": "Henry Mancini",
         "4": "John Barry",
-        "right_answer":"2 He won 9 oscars"
+        "right_answer":"2 Alfred Newman won 9 oscars"
         
     },{
         "Question": "6/20 Which actor played in most movies?",
@@ -45,7 +45,7 @@
         "2": "Sean Connery",
         "3": "Eric Roberts",
         "4": "Michael Douglas",
-        "right_answer":"3 over 600"
+        "right_answer":"3 Eric Roberts played in over 600 movies"
         
     },
     {
@@ -54,7 +54,7 @@
         "2": "Avengers:Endgame",
         "3": "Avatar",
         "4": "Pirates of the Caribbean: On Stranger Tides",
-        "right_answer":"4 387 milions"
+        "right_answer":"4 Pirates of the Caribbean: On Stranger Tides cost 387 milions"
         
     },
     {
@@ -63,7 +63,7 @@
         "2": "Daniel Craig",
         "3": "Robert Downey Jr",
         "4": "Ryan Reynolds",
-        "right_answer":"2 100 millions for Knives out"
+        "right_answer":"2 Daniel Craig got 100 millions for Knives out"
         
     },
     {
@@ -72,7 +72,7 @@
         "2": "Michael Crichton",
         "3": "Nicholas Sparks",
         "4": "Jane Austen",
-        "right_answer":"3 11"
+        "right_answer":"3 Nicholas Sparks books have 11 adaptations"
         
     },
     {
@@ -81,7 +81,7 @@
         "2": "Annette Bening",
         "3": "Sigourney Weaver",
         "4": "Amy Adams",
-        "right_answer":"1 8"
+        "right_answer":"1 Peter O'Toole had 8 nominations"
         
     },
     {
@@ -90,7 +90,7 @@
         "2": "Arnold Schwarzenegger",
         "3": "Sylvester Stallone",
         "4": "Bruce Willis",
-        "right_answer":"3"
+        "right_answer":"3 Sylvester Stallone"
     },
     {
         "Question": "12/20 Who was offerd role of Han Solo but not accepted?",
@@ -98,15 +98,15 @@
         "2": "Sean Connery",
         "3": "Michael Douglas",
         "4": "Robert Englund",
-        "right_answer":"1"
+        "right_answer":"1 Al Pacino"
     },
     {
-        "Question": "13/20Who adapted graphic novel 'Watchmen?' to movie?",
+        "Question": "13/20 Who adapted graphic novel 'Watchmen?' to movie?",
         "1": "Zac Snyder",
         "2": "Steven Spielberg",
         "3": "Christopher Nolan",
         "4": "Michael Bay",
-        "right_answer":"1"
+        "right_answer":"1 Zac Snyder"
     },
     {
         "Question": "14/20 What is the cheapest movie made with highest gross?",
@@ -114,7 +114,7 @@
         "2": "Reservoir Dogs",
         "3": "The Blair Witch Project",
         "4": "Mad Max",
-        "right_answer":"3 made for 60,000 but grossed 249 millions"
+        "right_answer":"3 The Blair Witch Project made for 60,000 but grossed 249 millions"
     },
     {
         "Question": "15/20 What is real name of Marylin Monroe?",
@@ -122,7 +122,7 @@
         "2": "Norma Jeane Baker",
         "3": "Mandy Johnson",
         "4": "Matilda Monroe",
-        "right_answer":"2"
+        "right_answer":"2 Norma Jeane Baker"
     },
     {
         "Question": "16/20 On who's book is 'Blade Runner' based on?",
@@ -130,7 +130,7 @@
         "2": "Robert A. Heinlein",
         "3": "Isaac Asimov",
         "4": "Philip K. Dick",
-        "right_answer":"4"
+        "right_answer":"4 Philip K. Dick"
     },
     {
         "Question": "17/20 Who is the highest-grossing film director in history?",
@@ -138,7 +138,7 @@
         "2": "Steven Spielberg",
         "3": "Peter Jackson",
         "4": "Michael Bay",
-        "right_answer":"2"
+        "right_answer":"2 Its Steven Spielberg"
     },
     {
         "Question": "18/20 What is the biggest flop in movie history?",
@@ -146,7 +146,7 @@
         "2": "John Carter",
         "3": "The Lone Ranger",
         "4": "47 Ronin",
-        "right_answer":"1 lost 150 millions"
+        "right_answer":"1 King Arthur: Legend of the Sword lost 150 millions"
         
     },
     {
@@ -155,7 +155,7 @@
         "2": "Tom Hanks",
         "3": "Jack Nicholson",
         "4": "Robert De Niro",
-        "right_answer":"2 1993 and 1994"
+        "right_answer":"2 Tom Hanks won in 1993 and 1994"
         
     },
     {
@@ -164,6 +164,6 @@
         "2": "Arnold Schwarzenegger",
         "3": "Samuel L. Jackson",
         "4": "Robert Downey Jr.",
-        "right_answer":"4"
+        "right_answer":"4 Samuel L. Jackson"
     }
 ]
