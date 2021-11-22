@@ -17,15 +17,16 @@ def questions(all_questions):
     print("3", all_questions["3"])
     print("4", all_questions["4"])
 
-    
     guest_answer = input('Your answer:\n')
-    
+
     if guest_answer == all_questions["right_answer"]:
         score += 1
         print("Great! You've earned a point. You've got:", score, "points")
+        print("-----------------")
     else:
         print("Sorry, this is wrong answer")
         print("The right answer is", all_questions["right_answer"])
+        print("-----------------")
 
 with open("quiz_main.json") as que_s:
     all_questions = json.load(que_s)
