@@ -37,16 +37,16 @@
         "2": "Alfred Newman",
         "3": "Henry Mancini",
         "4": "John Barry",
-        "right_answer":"2",
-        "ext_info": "9"
+        "right_answer":"2 He won 9 oscars"
+        
     },{
         "Question": "6/20 Which actor played in most movies?",
         "1": "Clint Eastwood",
         "2": "Sean Connery",
         "3": "Eric Roberts",
         "4": "Michael Douglas",
-        "right_answer":"3",
-        "extra_info": "over 600"
+        "right_answer":"3 over 600"
+        
     },
     {
         "Question": "7/20 Which one is the most expensive film ever?",
@@ -54,8 +54,8 @@
         "2": "Avengers:Endgame",
         "3": "Avatar",
         "4": "Pirates of the Caribbean: On Stranger Tides",
-        "right_answer":"4",
-        "extra_info": "387 milions"
+        "right_answer":"4 387 milions"
+        
     },
     {
         "Question": "8/20 Who is most expensive actor to hire?",
@@ -63,8 +63,8 @@
         "2": "Daniel Craig",
         "3": "Robert Downey Jr",
         "4": "Ryan Reynolds",
-        "right_answer":"2",
-        "extra_info": "100 millions for Knives out"
+        "right_answer":"2 100 millions for Knives out"
+        
     },
     {
         "Question": "9/20 Who is the most adapted author ever?",
@@ -72,8 +72,8 @@
         "2": "Michael Crichton",
         "3": "Nicholas Sparks",
         "4": "Jane Austen",
-        "right_answer":"3",
-        "extra_info": "11"
+        "right_answer":"3 11"
+        
     },
     {
         "Question": "10/20 Which actors has the most Oscar nominations without a win?",
@@ -81,8 +81,8 @@
         "2": "Annette Bening",
         "3": "Sigourney Weaver",
         "4": "Amy Adams",
-        "right_answer":"1",
-        "extra_info": "8"
+        "right_answer":"1 8"
+        
     },
     {
         "Question": "11/20 Who had 14 nominations for Worst Actor at the Razzies?",
@@ -114,8 +114,7 @@
         "2": "Reservoir Dogs",
         "3": "The Blair Witch Project",
         "4": "Mad Max",
-        "right_answer":"3",
-        "extra_info": "made for 60,000 but grossed 249 millions"
+        "right_answer":"3 made for 60,000 but grossed 249 millions"
     },
     {
         "Question": "15/20 What is real name of Marylin Monroe?",
@@ -147,8 +146,8 @@
         "2": "John Carter",
         "3": "The Lone Ranger",
         "4": "47 Ronin",
-        "right_answer":"1",
-        "extra_info": "lost 150 millions"
+        "right_answer":"1 lost 150 millions"
+        
     },
     {
         "Question": "19/20 Who got two Oacars in a row?",
@@ -156,8 +155,8 @@
         "2": "Tom Hanks",
         "3": "Jack Nicholson",
         "4": "Robert De Niro",
-        "right_answer":"2",
-        "extra_info": "1993 and 1994"
+        "right_answer":"2 1993 and 1994"
+        
     },
     {
         "Question": "20/20 Who one is the highest-grossing actor?",
