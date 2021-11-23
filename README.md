@@ -6,5 +6,10 @@
 
 # Features
 
-<h3>
+# Technologies Used
+
+* Language Used
+
+    * Python
+
 
