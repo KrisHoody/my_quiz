@@ -1,18 +1,21 @@
 import json
-print("Welcome to movie quiz")
-print("Enter your name, please: ")
-x = input()
-print("Welcome," + x)
-print("You will be presented with 20 Questions.")
-print("Enter your choice to get the points. Good luck!")
 score = 0
 name = ""
 
+while True:
+    your_name = input("Enter your name, please: ")
+    if your_name.isalpha():
+        print("Welcome to movie quiz," + your_name)   
+        print("You will be presented with 20 Questions.")
+        print("Enter your choice to get the points. Good luck!")
+        break
+    else:
+         print("Only letters, please")
 
+   
 
 def questions(all_questions):
-    global score
-
+    global score 
     print(all_questions["Question"])
     print("1", all_questions["1"])
     print("2", all_questions["2"])
@@ -20,6 +23,7 @@ def questions(all_questions):
     print("4", all_questions["4"])
 
     guest_answer = int(input('Your answer:\n'))
+
     while guest_answer > 4 or guest_answer <= 0:
         print("Please choose between 1 and 4")
         guest_answer = int(input("Please try again: "))
@@ -35,10 +39,14 @@ def questions(all_questions):
         print("The right answer is", all_questions["right_answer"])
         print("-----------------")
 
+
+
+
+
 with open("quiz_main.json") as que_s:
     all_questions = json.load(que_s)
 
     for i in range(0, len(all_questions)):
         questions(all_questions[i])
 
-print("This is the end of quiz. You've got", score, "points. Congratulations")
+print("This is the end of quiz. You've got", score, "points.")
