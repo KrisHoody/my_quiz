@@ -8,6 +8,8 @@ print("Enter your choice to get the points. Good luck!")
 score = 0
 name = ""
 
+
+
 def questions(all_questions):
     global score
 
@@ -17,7 +19,12 @@ def questions(all_questions):
     print("3", all_questions["3"])
     print("4", all_questions["4"])
 
-    guest_answer = input('Your answer:\n')
+    guest_answer = int(input('Your answer:\n'))
+    while guest_answer > 4 or guest_answer <= 0:
+        print("Please choose between 1 and 4")
+        guest_answer = int(input("Please try again: "))
+    else:
+        return guest_answer
 
     if guest_answer == all_questions["right_answer"]:
         score += 1
