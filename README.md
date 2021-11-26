@@ -19,8 +19,8 @@
     * Python
 
 # Testing
-<h2>I used PEP8 online validation tool to check the code for syntax errors or improper code indentation. It passed the test:<h3>
-<img src=/workspace/my_quiz/assets/img/pep8.png>
+<h3>I used PEP8 online validation tool to check the code for syntax errors or improper code indentation. It passed the test:<h3>
+<img src=assets/img/pep8.png>
 
 # Deployment
 <h2>View the live project [here](https://myquizkris.herokuapp.com/)<h2>
