@@ -8,25 +8,27 @@ print("Welcome to movie quiz.")
 
 """
 User can put only letter if enters his name.
-If name dont't contain letters user program stops and asks user for another try.
+If name doesn't contain letters user program
+stops and asks user for another try.
 """
 while True:
     your_name = input("Enter your name, please: ")
     if your_name.isalpha():
-        print("Welcome," + your_name)   
+        print("Welcome," + your_name)
         print("You will be presented with 20 Questions.")
         print("Enter your choice to get the points. Good luck!")
         break
     else:
-         print("Only letters, please")
+        print("Only letters, please")
 
-   
+
 """
 Questions are printed without answers.
 """
 
+
 def questions(all_questions):
-    global score 
+    global score
     print(all_questions["Question"])
     print("1", all_questions["1"])
     print("2", all_questions["2"])
@@ -64,12 +66,9 @@ def questions(all_questions):
         print("The right answer is", all_questions["right_answer"])
         print("-----------------")
 
-
-
-""" 
+"""
 Open json file with questions placed in another quiz_main.json file.
 """
-
 with open("quiz_main.json") as que_s:
     all_questions = json.load(que_s)
 
@@ -79,6 +78,7 @@ with open("quiz_main.json") as que_s:
 
     for i in range(0, len(all_questions)):
         questions(all_questions[i])
+
 """
 Program prints number of points.
 """
