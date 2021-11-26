@@ -67,14 +67,14 @@ def questions(all_questions):
 
 
 """ 
-Open json file with questions in another file.
+Open json file with questions placed in another quiz_main.json file.
 """
 
 with open("quiz_main.json") as que_s:
     all_questions = json.load(que_s)
 
     """
-    Loop to ask for question
+    Loop to ask for question.
     """
 
     for i in range(0, len(all_questions)):
